@@ -1,0 +1,21 @@
+
+body {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  justify-content: center;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: fantasy;
+  font-style: normal;
+  text-align: center;
+}
+
+div {
+  box-sizing: border-box;
+  flex-direction:column;
+  text-align: center;
+  font-style: oblique;
+}
